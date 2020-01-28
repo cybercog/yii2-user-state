@@ -1,7 +1,7 @@
 The yii2-user-state application is free software. It is released under the terms of
 the following BSD License.
 
-Copyright © 2008 by CyberCog LLC (http://cybercog.ru)
+Copyright © 2008 by CyberCog LLC (https://cybercog.su)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
